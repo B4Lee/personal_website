@@ -1,14 +1,14 @@
 <template>
   <section class="bg-white dark:bg-slate-800 flex flex-col h-full flex-grow">
     <div id="projects-card" class="mx-auto max-w-4xl flex flex-col flex-1 h-full w-full py-8 px-2 md:px-0 justify-start md:justify-center">
-      <!-- <h1 class="text-dark font-bold dark:text-white mt-4 md:mt-6 text-2xl md:text-4xl">Projects</h1> -->
+      <h1 class="text-dark font-bold dark:text-white text-2xl md:text-4xl">Past Works</h1>
       <div class="flex flex-col h-full w-full space-y-2 py-4">
         <div class="flex flex-col md:flex-row w-full border-2  border-gray-200 dark:border-light rounded">
         <img alt="" aria-hidden="true" class="md:w-1/2" src="../assets/img/kramatmotor.png" />
           <div class="p-4 flex flex-col w-full md:w-1/2">
             <h1 class="font-bold text-xl"><a href="https://kramatmotor.com" rel="noopener noreferrer" target="_blank">Kramat Motor Landing Page</a></h1>
             <br>
-            <p class="mt-2 text-dark dark:text-white">Landing page for PT Kramat Motor</p>
+            <p class="mt-2 text-dark dark:text-white">Company Profiles for PT Kramat Motor</p>
             <div class="flex flex-wrap mt-2 space-x-2">
               <div class="rounded-sm text-xs uppercase px-1 text-white font-bold bg-green-500 dark:bg-green-500">HTML</div>
               <div class="rounded-sm text-xs uppercase px-1 text-white font-bold bg-green-500 dark:bg-green-500">CSS</div>
@@ -59,6 +59,8 @@
             </div>
           </div>
         </div>
+        <br>
+        <SelfProjects />
       </div>
     </div>
   </section>
