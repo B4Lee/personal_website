@@ -8,8 +8,65 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Front-end Web Developer',
+      },
+      
+      {
+        hid: 'og-type',
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        hid: 'og-url',
+        property: 'og:url',
+        content: `https://b4le.my.id/`,
+      },
+      {
+        hid: 'og-title',
+        property: 'og:title',
+        content: `Iqbal Anggoro`,
+      },
+      {
+        hid: 'og-description',
+        property: 'og:description',
+        content: `Front-end Web Developer`,
+      },
+      {
+        hid: 'og-image',
+        property: 'og:image',
+        content: ``,
+      },
+
+      
+      {
+        hid: 'twitter-card',
+        property: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        hid: 'twitter-url',
+        property: 'twitter:url',
+        content: `https://b4le.my.id/`,
+      },
+      {
+        hid: 'twitter-title',
+        property: 'twitter:title',
+        content: `Iqbal Anggoro`,
+      },
+      {
+        hid: 'twitter-description',
+        property: 'twitter:description',
+        content: `Front-end Web Developer`,
+      },
+      {
+        hid: 'twitter-image',
+        property: 'twitter:image',
+        content: ``,
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
