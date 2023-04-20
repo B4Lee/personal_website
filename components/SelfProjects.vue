@@ -23,7 +23,7 @@
             </div>
             <br>
             <div class="flex flex-col md:flex-row w-full border-2  border-gray-200 dark:border-light rounded">
-                <img alt="" aria-hidden="true" class="md:w-1/2" src="../assets/img/MoviesFinder.png" />
+                <img alt="" aria-hidden="true" class="md:w-1/2" src="../assets/img/MovieFinder.png" />
                 <div class="p-4 flex flex-col w-full md:w-1/2">
                     <h1 class="font-bold text-xl"><a href="https://mv-finder.netlify.app" rel="noopener noreferrer" target="_blank">Movies Finder - Find Movies Information</a></h1>
                     <br>
