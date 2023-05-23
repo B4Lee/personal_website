@@ -3,7 +3,7 @@
 </template>
 
 <script>
-// export default {
-//   transition: 'slide-bottom'
-// }
+export default {
+  transition: 'slide-bottom'
+}
 </script>
