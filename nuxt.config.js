@@ -111,6 +111,9 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
+      name: 'Iqbal Anggoro',
+      description:
+        'Front-end Web Developer',
       lang: 'en',
     },
   },
