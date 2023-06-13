@@ -12,8 +12,8 @@
           <!-- If you have any questions, <a class="underline relative z-10 font-semibold" href="/contact">contact me</a> -->
         </p>
         <!-- <p class="text-center dark:text-white md:text-left max-w-[550px]">Checkout my <a class="underline relative z-10 font-semibold" href="/projects">past works</a> or learn more <a class="underline relative z-10 font-semibold" href="/about">about me</a>.</p> -->
-        <NuxtLink to="/about" class="mt-8 inline-flex items-center rounded border border-green-600 bg-green-600 px-8 py-3 text-white hover:text-white focus:outline-none focus:ring active:text-green-500">
-          <span class="text-sm font-medium">About me 👉</span>
+        <NuxtLink to="/about" class="mt-8 inline-flex items-center rounded border border-dark-green bg-dark-green px-8 py-3">
+          <span class="text-sm text-white font-medium">About me 👉</span>
         </NuxtLink>
       </div>
     </div>
