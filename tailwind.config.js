@@ -9,6 +9,11 @@ module.exports = {
   ],
   darkMode: 'class',
   theme: {
+    extend: {
+      colors: {
+        'dark-green': '#006400',
+      },
+    },
     darkSelector: '.dark-mode',
   },
   variants: {
