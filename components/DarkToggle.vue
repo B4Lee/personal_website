@@ -23,7 +23,8 @@ export default {
             shadow-sm
             rounded-lg
             cursor-pointer
-            " @click="themeSwitcher">
+            " aria-label="ThemeSwitcher Button"
+            @click="themeSwitcher">
         <!-- Dark mode icon -->
         <svg
             v-if="$colorMode.value == 'light'" xmlns="http://www.w3.org/2000/svg" class="
@@ -48,5 +49,4 @@ export default {
         </svg>
       </button>
     </div>
-
 </template>
