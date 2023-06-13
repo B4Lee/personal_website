@@ -3,7 +3,7 @@
     <div class="bg-white dark:bg-slate-800 shadow-sm pt-8">
       <div class="flex mx-auto items-center justify-between max-w-4xl">
         <div class="lg:flex items-center pr-4 bg-white dark:bg-slate-800 hidden md:hidden sm:block">
-          <img src="../static/icon.png" class="h-8" alt="nuxtIcon" height="2rem" width="32px" />
+          <img src="../static/iconz.png" alt="nuxtIcon" height="32px" width="32px" />
           <NuxtLink
             class="font-semibold items-center justify-center text-center text-xl 4 px-2 dark:hover:bg-light transition duration-200 ease-in-out"
             to="/">Iqbal Anggoro
