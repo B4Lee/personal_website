@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'dark-green': '#006400',
+        'dark-green': '#008751',
       },
     },
     darkSelector: '.dark-mode',
