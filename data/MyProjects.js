@@ -1,3 +1,7 @@
+import Tontonanku from "../assets/img/tontonanku.png"
+import MovieFinder from "../assets/img/MovieFinder.png"
+import AIRITSTORE from "../assets/img/airitstore.png"
+
 export const projects = [
     {
         img: require("assets/img/kramatmotor.png"),
@@ -22,5 +26,31 @@ export const projects = [
         source: 'https://airitservice.web.id/',
         description: 'Landing page for AIR IT Service',
         stack: ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP"],
+    },
+]
+export const portfolio = [
+    {
+        img: Tontonanku,
+        title: 'TontonanKu -  Movie/Series Watch List App',
+        path: 'https://ttnku.netlify.app',
+        source: 'https://github.com/Baja-Softworks/TontonanKu',
+        description: 'easily track your watch-list, so you can remember the latest episode!',
+        stack: ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP", "localStorage"],
+    },
+    {
+        img: MovieFinder,
+        title: 'Movie Finder - Find Movies Information',
+        path: 'https://mv-finder.netlify.app',
+        source: 'https://github.com/B4Lee/movie-finder',
+        description: 'An API Connected Website - API Provided by The Movie Database | Made for learning Fetch API using Vue.js and Axios',
+        stack: ['Javascript', 'Axios', 'Vue.js', 'Tailwind'],
+    },
+    {
+        img: AIRITSTORE,
+        title: 'AIR IT STORE',
+        path: 'https://store.airitservice.web.id/',
+        source: 'https://github.com/airitservice/store.airit-service.com',
+        description: 'Ecommerce Website selling Computer & Laptop Accessories built with Jamstack',
+        stack: ["React.js", "Gatsby.js", "Contentful", "Netlify Forms"],
     },
 ]
