@@ -3,7 +3,7 @@ title: Web Dev 101 Roadmap (Simplified)
 description: ''
 
 category: guide, webdev
-date: 15 July 2023
+date: 20 July 2023
 img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
 ---
 
@@ -22,11 +22,12 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Adobe XD
     - Penpot
 5. Start writing code
-6. Dont forget to maintain to the project itself ()
+6. Measure your web project and optimizing user experience using [web-vitals](https://web.dev/vitals/)
     - Analytics: Matomo/Umami/Plausible or Google Analytics 🙄
     - Accessibility: Unlighthouse
-    - Perfomance & Error Monitoring: Sentry
-    - Optimize SEO: 
+    - Issue & Error Monitoring: Sentry
+    - Optimize SEO: OpenGraph, Google Search Console/Central,[Ahrefs SEO Tools](https://ahrefs.com/free-seo-tools)
+    - Perfomance & Security: Cloudflare Bot Management
 7. Unit test the code (QA)
     - Test Unit: Vitest/Jest 
 8. Add database provider (optional - Back-end)
@@ -37,7 +38,7 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Netlify / Vercel
     - AWS / GCP / Azure
 
-Last updated: 15/07/2023
+Last updated: 20/07/2023
 
 Resource:
 - https://roadmap.sh/
