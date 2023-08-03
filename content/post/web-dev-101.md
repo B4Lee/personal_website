@@ -3,7 +3,7 @@ title: Web Dev 101 Roadmap (Simplified)
 description: ''
 
 category: guide, webdev
-date: 20 July 2023
+date: 21 July 2023
 img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
 ---
 
@@ -12,7 +12,7 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
 1. Decide what you want to build (Web Design / Apps, Full Stack Web Apps)
 2. Choose technology stack that you are gonna using 
     - JS Frameworks: React/Vue/Svelte.js
-    - CSS Frameworks: Bootstrap/Tailwind/DaisyUI
+    - CSS Frameworks: Bootstrap/Tailwind/DaisyUI/HeadlessUI
 3. Setup a Project management tools(optional)
     - Github Kanban/Project
     - Trello
@@ -38,8 +38,9 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Netlify / Vercel
     - AWS / GCP / Azure
 
-Last updated: 20/07/2023
+Last updated: 04/08/2023
 
 Resource:
+- https://www.fe.engineer/handbook/getting-started
 - https://roadmap.sh/
 - https://insights.stackoverflow.com/survey
