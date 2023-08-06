@@ -1,16 +1,16 @@
 ---
 title: Web Dev 101 Roadmap (Simplified)
-description: ''
+description: 'My Personal guides step by step to build Web Applications'
 
 category: guide, webdev
 date: 21 July 2023
 img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
 ---
 
-# Step-to-step 
+## Getting Started
 
 1. Decide what you want to build (Web Design / Apps, Full Stack Web Apps)
-2. Choose technology stack that you are gonna using 
+2. Choose technology stack that you are gonna using
     - JS Frameworks: React/Vue/Svelte.js
     - CSS Frameworks: Bootstrap/Tailwind/DaisyUI/HeadlessUI
 3. Setup a Project management tools(optional)
@@ -29,7 +29,7 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Optimize SEO: OpenGraph, Google Search Console/Central,[Ahrefs SEO Tools](https://ahrefs.com/free-seo-tools)
     - Perfomance & Security: Cloudflare Bot Management
 7. Unit test the code (QA)
-    - Test Unit: Vitest/Jest 
+    - Test Unit: Vitest/Jest
 8. Add database provider (optional - Back-end)
     - Firebase
     - Supabase
@@ -38,9 +38,10 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Netlify / Vercel
     - AWS / GCP / Azure
 
-Last updated: 04/08/2023
+Last updated: 07/08/2023
 
 Resource:
-- https://www.fe.engineer/handbook/getting-started
-- https://roadmap.sh/
-- https://insights.stackoverflow.com/survey
+
+- <https://roadmap.sh/>
+- <https://www.fe.engineer/handbook/getting-started>
+- <https://insights.stackoverflow.com/survey>
