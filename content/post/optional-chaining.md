@@ -1,14 +1,13 @@
 ---
-title: How to Access Nested Properties of an Single File Object from Response API
-description: ''
+title: 'Uncaught TypeError: Cannot read property of undefined Vue.js'
+description: 'Access Nested Properties of an Single File Object from Response API'
 
 category: Vue.js, JSON
 date: 21 July 2023
 img: https://i.stack.imgur.com/nKmFi.png
 ---
 
-
-When working with Vue.js applications, you may encounter situations where you need to access nested properties of an object. However, if the object is not yet available or if some of the properties are missing, it can result in errors that break your application. 
+When working with Vue.js applications, you may encounter situations where you need to access nested properties of an object. However, if the object is not yet available or if some of the properties are missing, it can result in errors that break your application.
 
 ## Understanding Optional Chaining in Vue.js
 
@@ -70,7 +69,9 @@ Remember to always verify that your target browsers support optional chaining, a
 
 With this powerful feature in your toolkit, you can confidently work with nested data in Vue.js and build more resilient and reliable applications.
 
-Reference: 
+Reference:
+
+- <https://stackdiary.com/tutorials/typeerror-cannot-read-property-of-undefined/>
 - [Vuejs Cannot read properties of undefined? But properties are defined](https://stackoverflow.com/questions/71766437/vuejs-cannot-read-properties-of-undefined-but-properties-are-defined)
 
-Last updated: 21 July 2023
+Last updated: 07 August 2023
