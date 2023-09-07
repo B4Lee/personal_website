@@ -27,7 +27,8 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Accessibility: Unlighthouse
     - Issue & Error Monitoring: Sentry
     - Optimize SEO: OpenGraph, Google Search Console/Central,[Ahrefs SEO Tools](https://ahrefs.com/free-seo-tools)
-    - Perfomance & Security: Cloudflare Bot Management
+    - Perfomance: [Priority Hints](https://nitropack.io/blog/post/priority-hints) / [Fetch Priority API](https://web.dev/fetch-priority/)
+    - Security: Cloudflare Bot Management
 7. Unit test the code (QA)
     - Test Unit: Vitest/Jest
 8. Add database provider (optional - Back-end)
@@ -38,7 +39,7 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Netlify / Vercel
     - AWS / GCP / Azure
 
-Last updated: 07/08/2023
+Last updated: 07/09/2023
 
 Resource:
 
