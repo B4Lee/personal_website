@@ -9,10 +9,14 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
 
 ## Getting Started
 
-1. Decide what you want to build (Web Design / Apps, Full Stack Web Apps)
+1. Decide what you want to build (Web Design / Full Stack Web Apps)
 2. Choose technology stack that you are gonna using
-    - JS Frameworks: React/Vue/Svelte.js
-    - CSS Frameworks: Bootstrap/Tailwind/DaisyUI/HeadlessUI
+    - JS Frameworks: React / Vue / Svelte.js
+    - PHP Frameworks: Laravel / CodeIgniter
+    - CSS Frameworks: Bootstrap / Tailwind / Materialize CSS
+        - DaisyUI
+        - HeadlessUI
+        - Flowbite
 3. Setup a Project management tools(optional)
     - Github Kanban/Project
     - Trello
@@ -26,7 +30,12 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Analytics: Matomo/Umami/Plausible or Google Analytics 🙄
     - Accessibility: Unlighthouse
     - Issue & Error Monitoring: Sentry
-    - Optimize SEO: OpenGraph, Google Search Console/Central,[Ahrefs SEO Tools](https://ahrefs.com/free-seo-tools)
+    - Optimize SEO:
+        - OpenGraph
+        - Google Search Console/Central
+        - Semrush
+        - [Ahrefs](https://ahrefs.com/free-seo-tools)
+        - [Ubersuggest](https://app.neilpatel.com/en/dashboard)
     - Perfomance: [Priority Hints](https://nitropack.io/blog/post/priority-hints) / [Fetch Priority API](https://web.dev/fetch-priority/)
     - Security: Cloudflare Bot Management
 7. Unit test the code (QA)
@@ -39,7 +48,7 @@ img: https://nuxtjs.org/_nuxt/image/b9ae28.jpeg
     - Netlify / Vercel
     - AWS / GCP / Azure
 
-Last updated: 07/09/2023
+Last updated: 07/10/2023
 
 Resource:
 
