@@ -21,7 +21,7 @@
       const poster = await $content('post', params.slug).fetch()
       const [prev, next] = await $content('post')
         .only(['title', 'slug'])
-        .sortBy('createdAt', 'asc')
+        .sortBy('date', 'asc')
         .surround(params.slug)
         .fetch()
       return {
