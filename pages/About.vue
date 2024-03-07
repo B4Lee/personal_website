@@ -6,23 +6,18 @@
         <p class="dark:text-white max-w-3xl">Hello! I'm Iqbal Anggoro <br>
           self-taught Web Developer based in Indonesia, specializing in Front-end Web development.<br>
           I love exploring things related to technology such as web design, software development and information security.
-          I love to contribute and using open-source software<br>
-          In my spare time, I help local people through this <a 
-          target="_blank" 
-          href="https://airitservice.web.id"
-          rel="noopener">Projects</a><br><br>
           I have couple of years works experience in Web Development. <br>
           Previously, I work at Automotive Company and working on their E-Commerce Website.<br>
           My duties as Web Developer mostly I made/build Landing Pages,Company Profiles and Web Applications.
-          <br>Also I help maintenance Company Website such as Monitoring Website Security,Traffic and Perfomance</p>
+          <br>Also I help maintenance Company Website such as Monitoring Website Security,Traffic and Perfomance.</p>
           <br>
           <h2 class="dark:text-white mt-4 md:mt-6 text-2xl md:text-4xl font-bold">Tech Stack</h2>
           <br>
           <p class="dark:text-white">
             <ul>
-              <li>Front-end: HTML, JavaScript, CSS, Bootstrap, TailwindCSS, jQuery, React.js, Vue.js</li>
-              <li>Back-end: PHP, GraphQL, MySQL, MongoDB, Node.js, Express.js</li>
-              <li>Tools/Framework: Git, Docker, Cloudflare, AWS, Electron.js, Next.js, Nuxt.js</li>
+              <li>Front-end: HTML, JavaScript, CSS, Bootstrap, TailwindCSS, jQuery, Vue.js, Nuxt.js</li>
+              <li>Back-end: PHP, MySQL, REST API, Node.js, MongoDB, GraphQL</li>
+              <!-- <li>Tools/Framework: Git, Docker, Cloudflare, AWS, Electron.js, Next.js, Nuxt.js</li> -->
               <li>Operating System: Windows 10, Linux Mint XFCE, Ubuntu on WSL</li>
             </ul>
           </p>
