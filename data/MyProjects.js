@@ -1,6 +1,7 @@
 import Tontonanku from "../assets/img/tontonanku.png"
 import MovieFinder from "../assets/img/MovieFinder.png"
 import AIRITSTORE from "../assets/img/airitstore.png"
+import MyAnimeList from "../assets/img/myanimelist-clone.png"
 
 export const projects = [
     {
@@ -34,7 +35,7 @@ export const portfolio = [
         title: 'TontonanKu -  Movie/Series Watch List App',
         path: 'https://ttnku.netlify.app',
         source: 'https://github.com/Baja-Softworks/TontonanKu',
-        description: 'easily track your watch-list, so you can remember the latest episode!',
+        description: 'Simple CRUD for track your watch-list, so you can remember the latest episode!',
         stack: ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP", "localStorage"],
     },
     {
@@ -44,6 +45,14 @@ export const portfolio = [
         source: 'https://github.com/B4Lee/movie-finder',
         description: 'An API Connected Website - API Provided by The Movie Database | Made for learning Fetch API using Vue.js and Axios',
         stack: ['Javascript', 'Axios', 'Vue.js', 'Tailwind'],
+    },
+    {
+        img: MyAnimeList,
+        title: 'MyAnimeList.net Clones - Anime & Manga Watchlist!',
+        path: 'https://myanimelist-clone.netlify.app/',
+        source: 'https://github.com/B4Lee/myanimelist-clone',
+        description: 'An API Connected Website - API Provided by Jikan.moe | Made For Learning Vue.js Composable API and Supabase Authentication',
+        stack: ["Vue.js", "TailwindCSS", "Pinia", "Supabase"],
     },
     {
         img: AIRITSTORE,
