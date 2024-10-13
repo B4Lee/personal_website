@@ -1,7 +1,7 @@
 <template>
   <section class="bg-white dark:bg-slate-800 flex flex-col h-full flex-grow">
     <div id="projects-card" class="mx-auto max-w-4xl flex flex-col flex-1 h-full w-full py-8 px-2 md:px-0 justify-start md:justify-center">
-      <h1 class="text-dark font-bold dark:text-white text-2xl md:text-4xl">Past Works</h1>
+      <!-- <h1 class="text-dark font-bold dark:text-white text-2xl md:text-4xl">Past Works</h1>
       <br>
       <div v-for="project in projects" :key="project.id" class="flex flex-col h-full w-full space-y-2 py-4">
         <div class="flex flex-col md:flex-row w-full border-2  border-gray-200 dark:border-light rounded">
@@ -11,15 +11,15 @@
             <br>
             <p class="text-dark dark:text-white">{{ project.description }}</p>
             <br />
-            <!-- <div class="flex flex-wrap mt-6 space-x-2">
+            <div class="flex flex-wrap mt-6 space-x-2">
               <div v-for="(stack, i) in project.stack" :key="i" class="rounded-sm mb-2 text-xs uppercase px-1  text-white font-bold bg-dark-green dark:bg-dark-green">{{stack}}</div>
-            </div> -->
+            </div>
             <div class="flex ">
               <a class="font-semibold text-lg hover:underline" rel="noopener noreferrer" target="_blank" :href="`${project.path}`">🌐 Visit Website</a>
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <br>
       <div id="projects-card" class="mx-auto max-w-4xl flex flex-col flex-1 h-full w-full py-8 px-2 md:px-0 justify-start md:justify-center">
         <h1 class="text-dark font-bold dark:text-white text-2xl md:text-4xl">Portfolio</h1>

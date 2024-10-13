@@ -28,6 +28,14 @@ export const projects = [
         description: 'Landing page for AIR IT Service',
         stack: ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP"],
     },
+    {
+        img: AIRITSTORE,
+        title: 'AIR IT STORE',
+        path: 'https://store.airitservice.web.id/',
+        source: 'https://github.com/airitservice/store.airit-service.com',
+        description: 'Ecommerce Website selling Computer & Laptop Accessories built with Jamstack',
+        stack: ["React.js", "Gatsby.js", "Contentful", "Netlify Forms"],
+    },
 ]
 export const portfolio = [
     {
@@ -54,12 +62,5 @@ export const portfolio = [
         description: 'An API Connected Website - API Provided by Jikan.moe | Made For Learning Vue.js Composable API and Supabase Authentication',
         stack: ["Vue.js", "TailwindCSS", "Pinia", "Supabase"],
     },
-    {
-        img: AIRITSTORE,
-        title: 'AIR IT STORE',
-        path: 'https://store.airitservice.web.id/',
-        source: 'https://github.com/airitservice/store.airit-service.com',
-        description: 'Ecommerce Website selling Computer & Laptop Accessories built with Jamstack',
-        stack: ["React.js", "Gatsby.js", "Contentful", "Netlify Forms"],
-    },
+
 ]
