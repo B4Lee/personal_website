@@ -1,5 +1,5 @@
 <template>
-<section class="bg-white dark:bg-slate-800 flex flex-col h-full flex-grow">
+<section class="bg-white dark:bg-[#141414] flex flex-col h-full flex-grow">
   <div class="mx-auto max-w-4xl flex flex-col flex-1 h-full w-full py-8 px-2 md:px-0 justify-start md:justify-center">
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-2">
       <div class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">

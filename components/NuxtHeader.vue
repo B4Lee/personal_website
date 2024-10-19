@@ -1,8 +1,8 @@
 <template>
   <header aria-label="Site Header" class="sticky z-50">
-    <div class="bg-white dark:bg-slate-800 shadow-sm pt-8">
+    <div class="bg-white dark:bg-[#141414] shadow-sm pt-8">
       <div class="flex mx-auto items-center justify-between max-w-4xl">
-        <div class="lg:flex items-center pr-4 bg-white dark:bg-slate-800 hidden md:hidden sm:block">
+        <div class="lg:flex items-center pr-4 bg-white dark:bg-[#141414] hidden md:hidden sm:block">
           <img src="../static/iconz.png" alt="nuxtIcon" height="32px" width="32px" />
           <NuxtLink
             class="font-semibold items-center justify-center text-center text-xl 4 px-2 dark:hover:bg-light transition duration-200 ease-in-out"
@@ -13,7 +13,7 @@
       <div class="flex mx-auto items-center justify-between max-w-4xl">
         <nav
           aria-label="Site Nav"
-          class="hidden bg-white dark:bg-slate-800 gap-x-4 text-md font-medium lg:flex lg:w-0 lg:flex-1">
+          class="hidden bg-white dark:bg-[#141414] gap-x-4 text-md font-medium lg:flex lg:w-0 lg:flex-1">
           <NuxtLink class="text-gray-900 dark:text-white hover:bg-gray-600" to="/">Home</NuxtLink>
           <NuxtLink class="text-gray-900 dark:text-white hover:bg-gray-600" to="/about">About</NuxtLink>
           <NuxtLink class="text-gray-900 dark:text-white hover:bg-gray-600" to="/blog">Blog</NuxtLink>
@@ -25,7 +25,7 @@
       </div>
     </div>
     <div
-      class="border-b  border-gray-100 lg:hidden bg-white dark:bg-slate-800 flex mx-auto items-center justify-between max-w-4xl">
+      class="border-b  border-gray-100 lg:hidden bg-white dark:bg-[#141414] flex mx-auto items-center justify-between max-w-4xl">
       <nav class="flex items-center space-x-4 justify-center overflow-x-auto p-4 text-sm font-medium">
         <NuxtLink class="text-gray-900 dark:text-white" to="/">Home</NuxtLink>
         <NuxtLink class="text-gray-900 dark:text-white" to="/about">About</NuxtLink>

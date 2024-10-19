@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white dark:bg-slate-800 flex flex-col h-full w-full flex-grow mx-auto">
+    <div class="bg-white dark:bg-[#141414] flex flex-col h-full w-full flex-grow mx-auto">
       <div class=" flex flex-col h-full w-full max-w-4xl mx-auto px-2 py-12 md:px-0 ">
         <h2 class="dark:text-white mt-4 md:mt-6 text-2xl md:text-4xl font-bold">About me</h2>
         <br>

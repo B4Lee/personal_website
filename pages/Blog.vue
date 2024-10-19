@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white dark:bg-slate-800 flex-1">
+    <div class="bg-white dark:bg-[#141414] flex-1">
         <div 
         v-for="article of post" :key="article.slug"
         class="flex flex-row flex-1 h-full w-full pt-12 max-w-3xl mx-auto px-2 md:px-0">

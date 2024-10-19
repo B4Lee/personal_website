@@ -1,6 +1,6 @@
 <template>
     <div>
-      <div class="basis-1/2 bg-white dark:bg-slate-800 py-8 px-4">
+      <div class="basis-1/2 bg-white dark:bg-[#141414] py-8 px-4">
         <div class="text-center font-bold xl:prose-xl mx-auto prose dark:prose-invert pb-4">{{poster.title}}</div>
         <NuxtContent class="prose text-left prose-sm sm:prose lg:prose-lg xl:prose-3xl mx-auto dark:prose-invert" :document="poster" />
       </div>

@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white dark:bg-slate-800 flex flex-col h-full flex-grow">
+  <section class="bg-white dark:bg-[#141414] flex flex-col h-full flex-grow">
     <div id="projects-card" class="mx-auto max-w-4xl flex flex-col flex-1 h-full w-full py-8 px-2 md:px-0 justify-start md:justify-center">
       <!-- <h1 class="text-dark font-bold dark:text-white text-2xl md:text-4xl">Past Works</h1>
       <br>
